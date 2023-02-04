@@ -2,7 +2,7 @@
 // @name         Tracers
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  later...
+// @description  Just tracers that show players and animals
 // @author       Devil D. Nudo#7346
 // @match        *://*.moomoo.io/*
 // @match        *://moomoo.io/*
